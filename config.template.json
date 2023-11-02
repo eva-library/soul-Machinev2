@@ -1,0 +1,19 @@
+{
+    "instance":"<YOUR_INSTANCE_URL>",
+    "LOCALE": "<YOUR_LOCALE>", 
+    "org_id": "<YOUR_ORG_ID_HERE>",
+    "env_id": "<YOUR_ENV_ID_HERE>",
+    "bot_id": "<YOUR_BOT_ID_HERE>",
+    "client_id": "<YOUR_CLIENT_ID_HERE>",
+    "client_secret": "<YOUR_CLIENT_SECRET_HERE>",
+    "API_KEY": "<YOUR_API_KEY_HERE>",
+    "CHANNEL": "<YOUR_CHANNEL_NAME_HERE>",
+    "keycloak_server": "<YOUR_KEYCLOAK_SERVER_HERE>",
+    "realm": "<YOUR_REALM_HERE>",
+    "mongodb": {
+        "username": "<YOUR_MONGODB_USERNAME_HERE>",
+        "password": "<YOUR_MONGODB_PASSWORD_HERE>",
+        "host": "<YOUR_MONGODB_HOST_HERE>",
+        "database": "<YOUR_MONGODB_DATABASE_NAME_HERE>"
+    }
+}

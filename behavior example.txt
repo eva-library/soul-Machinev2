@@ -1,0 +1,16 @@
+{
+    "name": "elevate-dh-LinealScript",
+    "summary": "elevate-dh-LinealScript",
+    "description": "elevate-dh-LinealScript",
+    "status": "ACTIVE",
+    "serviceProvider": "SKILL_API",
+    "categoryIds": [],
+    "endpointInitialize": null,
+    "endpointSession": null,
+    "endpointExecute": "https://dhcloudrun-evatestsingapore-ksj5vomroq-ue.a.run.app/execute",
+    "endpointEndSession": null,
+    "endpointEndProject": null,
+    "endpointMatchIntent": null,
+    "languages": null,
+    "config": null
+}
